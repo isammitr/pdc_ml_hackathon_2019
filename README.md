@@ -19,6 +19,10 @@ Manual Feature Engineering
 
 Statistical Data Analysis - output.html
 
+Hyper Parameter Tuning - Used open source automated machine learning tools to find best model.
+
+Used MLP classifier
+
 Accuracy Scores
 Category - 70 %
 is_victory - 85 %
