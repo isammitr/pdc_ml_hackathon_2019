@@ -1,3 +1,5 @@
+UPDATE: Kindly manually extract .json files from ZIP before running .ipynb
+
 Please follow the process to create a Pull Request for the developed code.
 
 Example:
