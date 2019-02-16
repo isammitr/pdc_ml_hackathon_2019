@@ -9,3 +9,16 @@ Branch name - Team_Amit_S
 3. They will develop code & push into their respective local forked repo.
 4. They need to update README.md file with all comments to setup / running the code.
 5. For final submission they will be submitting Pull Request on https://github.com/teamclairvoyant/pdc_ml_hackathon_2019 for respective branch we created in Step1
+----- ****** ---------------
+
+For category prediction we have used only one column, i.e. petition_letter_body
+
+Manual Feature Engineering
+1. Understanding business domain
+2. Feature engineering using statistical methods, e.g. corelations
+
+Statistical Data Analysis - output.html
+
+Accuracy Scores
+Category - 70 %
+is_victory - 85 %
