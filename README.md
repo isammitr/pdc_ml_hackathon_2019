@@ -15,6 +15,7 @@ A benchmark of 20% has been decided since the columns with missing values less t
 
 
 ### Data Engineering
+- A new feature has been created 'new_feature_category' which contains probable petition categories based on the '<mark>' tag used in features like 'highlight description'
 
 ## Data Visualization
 - Instead of using any ETL tools, the strong visualization libraries in python have been used viz. seaborn and matplotlib
