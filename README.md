@@ -1,4 +1,5 @@
 UPDATE: Kindly manually extract .json files from ZIP before running .ipynb
+Kindly refer to final_approach.pdf and story points.docx
 
 Please follow the process to create a Pull Request for the developed code.
 
