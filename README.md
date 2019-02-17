@@ -1,16 +1,16 @@
 # PDC Hackathon
 
-[![version][version-badge]][CHANGELOG]
-
+[![version][version-badge]][changelog]
 
 # Installation
-1. Clone this repo. 
-2. Run these commands in Administrator command prompt
+
+1.  Clone this repo.
+2.  Run these commands in Administrator command prompt
 
         set PYTHONIOENCODING=utf8
-        
+
         pip install -r requirements.txt
-        
+
 # Description
 
 Hi,
@@ -21,20 +21,18 @@ feature vector:
 
 X_data :
 
-	category prediction
+    category prediction
 
-	[ petition_petition_status,_source_sponsored_campaign, _source_sponsorship_active, petition_primary_target_is_person, petition_sponsored_campaign, petition_organization_non_profit ]
+    [ petition_petition_status,_source_sponsored_campaign, _source_sponsorship_active, petition_primary_target_is_person, petition_sponsored_campaign, petition_organization_non_profit ]
 
-Y_data : 
+Y_data :
 
-	[petition_is_victory]
+    [petition_is_victory]
 
 prediction :
 
-	petition_category
-	petition_is_victory 
-
-
+    petition_category
+    petition_is_victory
 
 # Testing
 
@@ -42,7 +40,7 @@ prediction :
 
 ```
 # command to initiate run the training process.
-python train.py 
+python train.py
 
 # ommand to initiate run the scoring process.
 python score.py -f "validation/validation.json"
@@ -50,6 +48,10 @@ python score.py -f "validation/validation.json"
 python score.py --filepath "validation/validation.json"
 
 ```
-[CHANGELOG]: ./CHANGELOG.md
+
+[changelog]: ./CHANGELOG.md
 [version-badge]: https://img.shields.io/badge/version-0.0.0-green.svg
 
+# Visualization
+
+Please refer mail.
